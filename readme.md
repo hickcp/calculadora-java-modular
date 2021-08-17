@@ -6,4 +6,4 @@ A execução do programa está no Runner.java, dentro do módulo calculadora.cor
 
 Qualquer dúvida e informações estarei a disposição
 
-<img src="exemplo.png" alt="Exemplo do projeto")
+<img src="\exemplo.png" alt="Exemplo do projeto"/>
