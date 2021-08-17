@@ -1,6 +1,6 @@
 # Calculadora com Java Modular
 
-## Olá, aqui está o meu primeiro de muitos projetos com Java modular.
+Olá, aqui está o meu primeiro de muitos projetos com Java modular.
 
 ## Requisitos:
 1. JDK 9 +
@@ -17,6 +17,6 @@
 
 [Oque é módulos Java (Jigsaw)?](https://www.infoq.com/br/articles/Java-Jigsaw-Migration-Guide/)
 
-# Qualquer dúvida e informações estarei a disposição
+### Qualquer dúvida e informações estarei a disposição
 
 
